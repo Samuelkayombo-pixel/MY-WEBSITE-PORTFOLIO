@@ -61,15 +61,15 @@ const previousButton = document.getElementById("previousButton");
 const nextButton = document.getElementById("nextButton");
 const galleryPhotos = [
     {
-        image: "images/IMG-20260924-WA0080.jpg",
+        image: "images/imageone.jpg",
         caption: "Photo 1: My first personal photo."
     },
     {
-        image: "images/IMG-20260924-WA0082.jpg",
+        image: "images/imagetwo.jpg",
         caption: "Photo 2: My second personal photo."
     },
     {
-        image: "images/IMG-20260924-WA0093.jpg",
+        image: "images/imagethree.jpg",
         caption: "Photo 3: My third personal photo."
     }
 ];
