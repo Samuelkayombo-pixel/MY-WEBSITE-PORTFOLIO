@@ -61,7 +61,7 @@ const previousButton = document.getElementById("previousButton");
 const nextButton = document.getElementById("nextButton");
 const galleryPhotos = [
     {
-        image: "images/imageone.jpg",
+        image: "imageone.jpg",
         caption: "Photo 1: My first personal photo."
     },
     {
